@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 118,
+      "ypos": 98,
+      "width": 226,
+      "height": 11,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pxe-openSUSE-Tumbleweed-entry"
+  ]
+}

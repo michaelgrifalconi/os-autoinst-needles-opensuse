@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "xpos": 111,
+      "ypos": 50,
+      "width": 37,
+      "height": 12,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "pxe-menu-nfs"
+  ]
+}
